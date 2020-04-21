@@ -81,10 +81,9 @@ a:hover {
 	top: 40px;
 }
 
-.bottom-cloud {
-	position: absolute;
-	left: 250px;
-	bottom: 300px;
+.mountain {
+	width: 50%;
+	height: auto;
 }
 
 .middle-container {
